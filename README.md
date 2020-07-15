@@ -12,6 +12,14 @@
 
 <br />
 
+![](https://visitor-badge.glitch.me/badge?page_id=s4mur4i.s4mur4i)
+
+<br />
+
+<img align="right" height="270px" width="450px" alt="GIF" src="https://giphy.com/gifs/samurai-dark-vador-xT0BKkEhYLiqV0Talq" />
+<br />
+
+<br/>
 I am Into:
 
 **Containers, Cloud Platforms, Micro Services 😼**
