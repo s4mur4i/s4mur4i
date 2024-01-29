@@ -1,4 +1,4 @@
-### Hi there, I'm [S4mur4i!](https://kronin.cloud) 👋.  <img src="https://raw.githubusercontent.com/s4mur4i/s4mur4i/master/svg/pronouns/hehim.svg" >
+### Hi there, I'm [S4mur4i!]([https://kronin.cloud](https://www.linkedin.com/in/s4mur4i/)) 👋.  
 
 <a href="https://www.linkedin.com/in/s4mur4i/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
