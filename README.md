@@ -93,6 +93,22 @@ motto: "Diving deep — in code and water"
 
 ---
 
+### `$ ls /publications/finops/`
+
+**Author:**
+- [AWS ECR Optimization](https://www.finops.org/wg/aws-ecr-optimization/)
+- [AWS RDS Removal](https://www.finops.org/wg/aws-rds-removal/)
+- [Using AWS Config for Unused Resources & Tagging Compliance](https://www.finops.org/wg/using-aws-config-to-identify-unused-resources-tagging-compliance/)
+- [AWS Managed Service Modernization](https://www.finops.org/wg/aws-managed-service-modernization/)
+- [Cost Optimization for AWS EC2 AutoScaling](https://www.finops.org/wg/cost-optimization-for-aws-ec2-autoscaling/)
+- [AWS DynamoDB Optimization](https://www.finops.org/wg/aws-dynamodb-optimization/)
+- [How to Build and Optimize FinOps Data Workflows](https://www.finops.org/wg/how-to-build-and-optimize-finops-data-workflows/)
+
+**Acknowledged in:**
+- [AWS S3 Cost Optimization](https://www.finops.org/wg/aws-s3-cost-optimization/)
+
+---
+
 ### `$ tree /projects/ --featured`
 
 <a href="https://s4mur4i.github.io/decompression-compare-app/">
