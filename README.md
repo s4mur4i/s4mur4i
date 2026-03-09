@@ -106,7 +106,7 @@ motto: "Diving deep — in code and water"
 
 ### `$ tree /projects/ --featured`
 
-<a href="https://https://deco.szamuraj.com/">
+<a href="https://deco.szamuraj.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s4mur4i&repo=decompression-compare-app&theme=dark&bg_color=0d1117&border_color=30363d&title_color=00ff41&icon_color=00ff41&text_color=8b949e" />
 </a>
 
