@@ -84,11 +84,6 @@ motto: "Diving deep — in code and water"
 ![CCNP](https://img.shields.io/badge/CCNP-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Aviatrix](https://img.shields.io/badge/Aviatrix-%23F37021.svg?style=for-the-badge&logo=aviatrix&logoColor=white)
 
-**`/certs/`**
-
-[![FinOps Certified](https://img.shields.io/badge/FinOps-Certified_Professional-%2300C853.svg?style=for-the-badge)](https://www.finops.org/training-certification/certified-professionals/?prod_COR_PRO_PEOPLE%5Bquery%5D=krisztian)
-![CEH](https://img.shields.io/badge/CEH_v7-%23000000.svg?style=for-the-badge&logo=ec-council&logoColor=white)
-
 </p>
 
 ---
@@ -111,7 +106,7 @@ motto: "Diving deep — in code and water"
 
 ### `$ tree /projects/ --featured`
 
-<a href="https://s4mur4i.github.io/decompression-compare-app/">
+<a href="https://https://deco.szamuraj.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s4mur4i&repo=decompression-compare-app&theme=dark&bg_color=0d1117&border_color=30363d&title_color=00ff41&icon_color=00ff41&text_color=8b949e" />
 </a>
 
